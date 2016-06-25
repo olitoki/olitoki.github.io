@@ -104,7 +104,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #fff;
+    color: #000;
 }
 
 .navbar-custom .nav li a {
@@ -148,7 +148,7 @@ a:focus {
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
-        color: #000;
+        color: #fff;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -208,6 +208,9 @@ a:focus {
 
     .logo {
       height: 500px;
+    }
+    .navbar-custom a {
+        color: #fff;
     }
 }
 
